@@ -135,8 +135,12 @@ Databases              ████████░░░░░░░
 # 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toshimajaiswal&show_icons=true&theme=tokyonight&hide_border=false" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshimajaiswal&layout=compact&theme=tokyonight&hide_border=false" height="165" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=toshimajaiswal&theme=tokyonight&hide_border=false" height="165" /> </p>
 
-# 🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/toshimajaiswal/toshimajaiswal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p>
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/toshimajaiswal/toshimajaiswal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 # ✍️ Dev Quote of the Day
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
