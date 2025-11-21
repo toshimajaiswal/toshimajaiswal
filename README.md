@@ -1,10 +1,12 @@
-<!-- HEADER BANNER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FF6A00&height=230&section=header&text=Toshima%20Jaiswal&fontAlignY=40&fontSize=45&desc=Aspiring%20AI%20Engineer%20%7C%20MSc%20Data%20Science%20%7C%20ML%20%26%20NLP%20Enthusiast&descAlignY=65&fontColor=FFFFFF)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=111111&height=180&section=header&text=Hi!%20I%20am%20Toshima%20Jaiswal&fontSize=45&fontColor=FF6A00&fontAlignY=35)
+
+
 
 <!-- TYPING INTRO -->
 <p align="center">
   <a href="https://github.com/toshimajaiswal">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF7A00&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Toshima+Jaiswal+👋;Aspiring+AI+Engineer+%7C+MSc+Data+Science+Student;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+data+into+insights+and+intelligent+systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF7A00&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer+%7C+MSc+Data+Science+Student;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+data+into+insights+and+intelligent+systems" />
   </a>
 </p>
 
@@ -147,8 +149,10 @@ Databases              ████████░░░░░░░
 
 # 🔢 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=toshimajaiswal&label=Profile%20Views&color=1&icon=2&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=toshimajaiswal&label=Profile%20Views&color=FF7A00&style=for-the-badge"/>
 </p>
+
+
 
 
 <!-- Crafted with curiosity, code, and coffee ☕ by Toshima -->
