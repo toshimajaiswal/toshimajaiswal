@@ -135,7 +135,7 @@ Databases              ████████░░░░░░░
 # 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toshimajaiswal&show_icons=true&theme=tokyonight&hide_border=false" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshimajaiswal&layout=compact&theme=tokyonight&hide_border=false" height="165" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=toshimajaiswal&theme=tokyonight&hide_border=false" height="165" /> </p>
 
-## 🐍 Contribution Snake  
+# 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/toshimajaiswal/toshimajaiswal/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -146,6 +146,9 @@ Databases              ████████░░░░░░░
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 
 # 🔢 Profile Views
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=toshimajaiswal&icon=2&color=1" /> </p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=toshimajaiswal&label=Profile%20Views&color=1&icon=2&pretty=true" />
+</p>
+
 
 <!-- Crafted with curiosity, code, and coffee ☕ by Toshima -->
